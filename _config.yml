@@ -4,7 +4,7 @@ copyright: "2025"
 # logo: logo.png
 
 repository:
-  url: https://github.com/dgt-mon/guidelines-for-drafting-manuscripts
+  url: https://github.com/digital-monographs/guidelines-for-drafting-manuscripts
 html:
   use_repository_button: true
   use_issues_button: true
