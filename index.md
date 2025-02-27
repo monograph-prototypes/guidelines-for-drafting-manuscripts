@@ -5,7 +5,7 @@
 :::
 
 
-% :::{dgt-mon-asset} 186a2334-445b-4096-a495-6b20810daed3 :::
+% :::{dgt-mon-asset} cc57a872-a3bb-446c-835e-39a94e3f5b6d :::
 
 ## Introduction
 
@@ -21,10 +21,5 @@ To help you with compilation of your manuscript, we offer the manuscript templat
 
 :::{tableofcontents}  
 :::
-
-
-
-(f-index-unref485880049)=
-**Test**
 
 
