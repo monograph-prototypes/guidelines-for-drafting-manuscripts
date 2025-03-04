@@ -27,7 +27,7 @@ When submitting your manuscript for the first time do not worry that it is not p
 
 ## Modifications After First Draft Submission
 
-As a general rule, after the first submission the tnb team will provide you with:
+As a general rule, after the first submission the *tnb.admin* team will provide you with:
 
 * Central storage location of your manuscript,
 * Link to a dashboard displaying useful information about your manuscript,
@@ -45,7 +45,7 @@ Please make sure that your submission complies with the guidelines. When you thi
 Manuscripts should be submitted in a `.docx` file format. We also accept chapters written in `.ipynb` files, although the recommended way of including visualizations, charts, diagrams, maps, jupyter notebooks, etc. is by including them in `.docx` files. As an author you are required to upload all the files included in you manuscript to the `assets` folder.  
 :::
 
-**Manuscripts should be written and submitted specifically in a `.docx` file format.** This is the default file extension produced by the most common word processing software – Microsoft Word. Other file formats, like `.pages` created in Apple Pages or `.gdoc` saved from Google Doc will *not* work. In the case of manuscripts written in those unsupported file formats input files should be first transformed to `.docx` in order to submit them to the platform.
+**Manuscripts should be written and submitted specifically in a `.docx` file format.** This is the default file extension produced by the most common word processing software – Microsoft Word. Other file formats, like `.pages` created in Apple Pages or `.gdoc` saved from Google Doc will not work. In the case of manuscripts written in those unsupported file formats input files should be first transformed to `.docx` in order to submit them to the platform.
 
 
 
@@ -196,7 +196,7 @@ If the manuscript is for a book series or a journal, please check in advance if 
 
 Highlighting in text: i.e. italics 
 
-Uniform spelling: Abbreviations (i.e. fig., tab.), foreign words etc.
+Uniform spelling: abbreviations (i.e. fig., tab.), foreign words etc.
 
 :::{important}  
 Please use a metric system such as the International System of Units (SI). For compound units, Unicode symbols must be used.  
