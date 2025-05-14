@@ -19,7 +19,7 @@ Before creating a new issue, search the list of issues to ensure your report is 
 
 ## How To Ask For Help
 
-Please read [the documentation on creating an issue in GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository). We strongly suggest that you use issue templates to report a bug or request a feature.
+Please read [the documentation on creating an issue in GitHub](https://web.archive.org/web/20250116043437/https:/docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue#creating-an-issue-from-a-repository). We strongly suggest that you use issue templates to report a bug or request a feature.
 
 When asking for help, it's crucial to put in the effort in being helped. Please describe your problem as clearly as possible:
 
